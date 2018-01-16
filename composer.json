@@ -3,5 +3,10 @@
     "description": "PHP Implementation of the Porter Stemmer algorithm for Cms made simple. Russian language.",
     "require": {
         "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "src/"
+        }
     }
 }
