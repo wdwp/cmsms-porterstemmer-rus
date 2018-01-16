@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "classmap":"vendor/wdwp/cmsms-porterstemmer-rus/src/"
+            "classmap": ["vendor/wdwp/cmsms-porterstemmer-rus/src/"]
         }
     }
 }
