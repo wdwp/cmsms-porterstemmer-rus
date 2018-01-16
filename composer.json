@@ -5,6 +5,6 @@
         "php": ">=5.4.0"
     },
     "autoload": {        
-            "classmap": ["vendor/wdwp/cmsms-porterstemmer-rus/src/"]        
+            "classmap": ["src/"]        
     }
 }
