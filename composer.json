@@ -4,9 +4,7 @@
     "require": {
         "php": ">=5.4.0"
     },
-    "autoload": {
-        "psr-4": {
-            "classmap": ["vendor/wdwp/cmsms-porterstemmer-rus/src/"]
-        }
+    "autoload": {        
+            "classmap": ["vendor/wdwp/cmsms-porterstemmer-rus/src/"]        
     }
 }
